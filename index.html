@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script type="module" src="app.js" async></script>
+    <title>Document</title>
+</head>
+<body>
+    <div id="searchContainer" class="searchContainer">
+        <div class="paddingHack">
+            <h1> Leitaðu að mynd </h1>
+            <input id="search" type="text" placeholder="Sláðu inn nafn á höfund">
+            <div id="hide">
+                <
+            </div>
+
+            <div id="date-container">
+            <label> Frá </label>
+            <input id="date-from" type="date" min="0" max="0"><br><br>
+            <label> Til </label>
+            <input id="date-to" type="date" min="0" max="0">
+            </div>
+
+            <div id="slider-container">
+            <label id="min" data-min></label>
+            <input id="slider" type="range" min="0" max="10">
+            <label id="max" data-max></label><br>
+            <output class="leitarVerd"></output>
+
+            </div>
+        </div>
+    </div>
+    <div id="show" class="disablePage">
+        >
+    </div>
+    <div class="contentContainer">
+    <div id="content-container">
+
+    </div>
+    </div>
+
+</body>
+</html>
