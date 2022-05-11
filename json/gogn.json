@@ -1,0 +1,46 @@
+{
+    "myndir":[
+        { 
+            "heiti" : "mynd1",
+            "hofundur" : "Stefán Örn Lárusson",
+            "dagsetning" : "2017-08-03",
+            "verd" : 10000,
+            "vefslod" : "images/makrill.jpg"
+        },
+        { 
+            "heiti" : "mynd2",
+            "hofundur" : "Einar Árni",
+            "dagsetning" : "2030-11-02",
+            "verd" : 34920,
+            "vefslod" : "images/einar.jpg"
+        },
+        { 
+            "heiti" : "mynd3",
+            "hofundur" : "Haraldur Sigfús Magnússon",
+            "dagsetning" : "2020-01-01",
+            "verd" : 3990,
+            "vefslod" : "images/dulli.jpg"
+        },
+        { 
+            "heiti" : "mynd4",
+            "hofundur" : "Arnar Bjarki Björnsson",
+            "dagsetning" : "2019-01-01",
+            "verd" : 1000000,
+            "vefslod" : "images/gorumur.jpg"
+        },
+        { 
+            "heiti" : "mynd5",
+            "hofundur" : "Mikael Dananto Danbhora",
+            "dagsetning" : "2022-04-26",
+            "verd" : 300000,
+            "vefslod" : "images/mikki.jpg"
+        },
+        {
+            "heiti" : "Skítur",
+            "hofundur" : "Sigurður Matti",
+            "dagsetning" : "2020-05-05",
+            "verd" : 199,
+            "vefslod" : "images/skitur.jpg"
+        }
+    ]
+}
